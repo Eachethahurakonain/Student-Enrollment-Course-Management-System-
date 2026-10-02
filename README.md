@@ -1,10 +1,10 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-    <title>CPPTA</title>
+    <title>SECMS</title>
 </head>
 <body>
-    <h1>Cricket Player Performance Tracking Application</h1>
+    <h1>Student Enrollment Course Management System</h1>
     <p>Project under development.</p>
 </body>
 </html>
